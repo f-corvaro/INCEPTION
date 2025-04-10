@@ -6,7 +6,6 @@
 	<b><i>"Dive into the world of virtualization and containerization."</i></b><br>
 </p>
 <p align="center" style="text-decoration: none;">
-    <a href="https://github.com/f-corvaro/INCEPTION/blob/main/.extra/en.subject.pdf"><img alt="subject" src="https://img.shields.io/badge/subject-INCEPTION-yellow" /></a>
     <a href="https://github.com/f-corvaro/INCEPTION"><img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/f-corvaro/INCEPTION?color=blueviolet" /></a>
     <a href="https://github.com/f-corvaro/INCEPTION"><img alt="Code language count" src="https://img.shields.io/github/languages/count/f-corvaro/INCEPTION?color=yellow" /></a>
     <a href="https://github.com/f-corvaro/INCEPTION"><img alt="GitHub top language" src="https://img.shields.io/github/languages/top/f-corvaro/INCEPTION?color=blueviolet" /></a>
@@ -61,13 +60,6 @@ Thank you for your interest! I am currently working hard to bring you exciting u
 </p>
 
 ## Evaluation Process
-
-### Correction sheet
-
-<p align="center">
-
-</p>
-<br>
 
 ## Developed Skills
 
